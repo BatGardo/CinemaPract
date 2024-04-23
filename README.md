@@ -1,1 +1,1 @@
-# KinoPract
+# CinemaPract
